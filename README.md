@@ -1,7 +1,10 @@
 ```markdown
 # Rapid, Reproducible & Reliable GO Analysis with Snakemake and R
 
-This tutorial demonstrates how to perform Gene Ontology (GO) analysis using the topGO package within a Snakemake pipeline. We’ll walk you through the setup of configuration files, scripts, and the Snakemake workflow to automate your analysis. Perfect for researchers handling omics data who need reproducibility and efficiency in their pipelines.
+This tutorial demonstrates how to perform Gene Ontology (GO) analysis using the topGO
+package within a Snakemake pipeline. We’ll walk you through the setup of configuration files,
+scripts, and the Snakemake workflow to automate your analysis. Perfect for researchers
+handling omics data who need reproducibility and efficiency in their pipelines.
 
 ## Key Highlights:
 - Introduction to GO analysis and Snakemake.
