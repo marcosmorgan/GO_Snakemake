@@ -1,0 +1,17 @@
+project: "YT"
+
+dataset: "mmusculus_gene_ensembl"
+symbol: "mgi_symbol"
+
+DEG: "DEG"
+adjPval: 
+  0.05:
+  0.01:
+logFC:
+  -0.5:
+  0.5:
+
+ontology: "BP"
+algorithm: "classic"
+statistic: "fisher"
+
