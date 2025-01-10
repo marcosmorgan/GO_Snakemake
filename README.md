@@ -14,7 +14,7 @@ handling omics data who need reproducibility and efficiency in their pipelines.
 
 ### 🔗 Watch the YouTube Video:
 
-[![Watch the video](https://img.youtube.com/vi/SMDdfcpONX8/maxresdefault.jpg)](https://youtu.be/SMDdfcpONX8)
+https://youtu.be/SMDdfcpONX8
 
 ---
 
